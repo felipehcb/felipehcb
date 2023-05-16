@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @felipehcb
-- 👀 I’m interested in learning 
 - 🌱 I’m currently learning JavaScript, HTML and CSS
 - 📫 How to reach me: https://www.instagram.com/felipehcb/
 
