@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @felipehcb
-- 🌱 I’m currently learning JavaScript, HTML, CSS and Java
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: https://www.instagram.com/felipehcb/
 
 <!---
